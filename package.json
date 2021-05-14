@@ -1,0 +1,11 @@
+{
+  "name": "jsbits",
+  "license": "ISC",
+  "version": "0.2.0",
+  "type": "module",
+  "private": true,
+  "repository": "github:spookerton/jsbits",
+  "contributors": [
+    "spookerton <spkrtn@pm.me> (https://github.com/spookerton)"
+  ]
+}
